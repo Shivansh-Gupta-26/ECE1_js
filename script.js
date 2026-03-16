@@ -64,14 +64,37 @@
 // }
 
 
-let grade='A';
-switch(grade){
-    case'A':document.write("<br>Godd job<br/>");
-    break;
-        case'B':document.write("<br>Godd job<br/>");
-    break;
-        case'C':document.write("<br>Godd job<br/>");
-    break;
-        default:document.write("<br>Godd job<br/>");
-    break;
-}
+// let grade='A';
+// switch(grade){
+//         case'A':document.write("<br>Godd job<br/>");
+//     break;
+//         case'B':document.write("<br>Godd job<br/>");
+//     break;
+//         case'C':document.write("<br>Godd job<br/>");
+//     break;
+//         default:document.write("<br>Godd job<br/>");
+//     break;
+// }
+
+//  function myfunction(){
+//     alert("Hello World");
+// }
+
+// function sayhello(name,age){
+// document.write(name + " is"+ age +"years old.")
+// }
+
+// var add3=(a,b) => {
+// console.log(a+b);
+// }
+
+// var person={
+//     name:'John mac',
+//     age:18,
+//     address:{
+//         street:'Vijay Nagar',flatno:201,
+//     }
+// };
+
+
+var person2
