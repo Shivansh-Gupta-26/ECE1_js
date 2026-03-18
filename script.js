@@ -97,4 +97,4 @@
 // };
 
 
-var person2
+// var person2
