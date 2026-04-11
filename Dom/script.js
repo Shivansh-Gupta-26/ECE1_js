@@ -6,32 +6,32 @@
 // result1[1].innerHTML="chauhan";
 // result1[0].innerHTML="Jitendra";
 
-//  const result = document.getElementById("jk").getAttribute("class");
-//  document.getElementById("p1").innerHTML ="jk1";
+ const result = document.getElementById("jk").getAttribute("class");
+ document.getElementById("p1").innerHTML ="jk1";
 
-//  const heading=document.createElement("h2");
+ const heading=document.createElement("h2");
 
-// function onClick(){
-//     console.log("on Click");
-// }
-// function onmouseover(){
-//     console.log("onmouseover");
-// }
-// function onmouseout(){
-//     console.log("onmouseout");
-// }
-// function onmousedown(){
-//     console.log("onmousedown");
-// }
-// function ondblclick(){
-//     console.log("ondblclick");
-// }
-// function onmouseup(){
-//     console.log("on onmouseup");
-// }
-// function onmousemove(){
-//     console.log("onmousemove");
-// }
+function onClick(){
+    console.log("on Click");
+}
+function onmouseover(){
+    console.log("onmouseover");
+}
+function onmouseout(){
+    console.log("onmouseout");
+}
+function onmousedown(){
+    console.log("onmousedown");
+}
+function ondblclick(){
+    console.log("ondblclick");
+}
+function onmouseup(){
+    console.log("on onmouseup");
+}
+function onmousemove(){
+    console.log("onmousemove");
+}
 // append
 // prepend
 // before 
@@ -85,5 +85,5 @@
 // localStorage.setItem() 
 
 
-var user = {name:"Jeet",age:50};
-localStorage
+// var user = {name:"Jeet",age:50};
+// localStorage
